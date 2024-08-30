@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+    <component name="ProjectModuleManager">
+        <modules>
+            <module fileurl="file://$PROJECT_DIR$/IfKeywordAndCodeBlocks/IfKeywordAndCodeBlocks.iml"
+                    filepath="$PROJECT_DIR$/IfKeywordAndCodeBlocks/IfKeywordAndCodeBlocks.iml"/>
+            <module fileurl="file://$PROJECT_DIR$/JavaCrashCourse.iml" filepath="$PROJECT_DIR$/JavaCrashCourse.iml"/>
+            <module fileurl="file://$PROJECT_DIR$/HelloWorld/HelloWorld.iml"
+                    filepath="$PROJECT_DIR$/HelloWorld/HelloWorld.iml"/>
+            <module fileurl="file://$PROJECT_DIR$/KeywordsAndExpressins/KeywordsAndExpressins.iml"
+                    filepath="$PROJECT_DIR$/KeywordsAndExpressins/KeywordsAndExpressins.iml"/>
+            <module fileurl="file://$PROJECT_DIR$/StatementsWhiteSpaceAndIdenting/StatementsWhiteSpaceAndIdenting.iml"
+                    filepath="$PROJECT_DIR$/StatementsWhiteSpaceAndIdenting/StatementsWhiteSpaceAndIdenting.iml"/>
+        </modules>
+    </component>
+</project>
