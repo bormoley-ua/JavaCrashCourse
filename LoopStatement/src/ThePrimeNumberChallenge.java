@@ -1,4 +1,4 @@
-public class Main {
+public class ThePrimeNumberChallenge {
     public static void main(String[] args) {
 //        System.out.println("0 is" + (isPrime(0) ? "" : " not") + " a prime number");
 //        System.out.println("1 is" + (isPrime(1) ? "" : " not") + " a prime number");

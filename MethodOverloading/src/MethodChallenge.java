@@ -1,4 +1,4 @@
-public class Main {
+public class MethodChallenge {
     public static void main(String[] args) {
         String name = "Leonid";
         displayHighScorePosition(name, calculateHighScorePosition(1500));
