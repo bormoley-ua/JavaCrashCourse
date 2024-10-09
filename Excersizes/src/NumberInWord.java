@@ -1,5 +1,5 @@
 public class NumberInWord {
-    // write code here
+
     public static void printNumberInWord(int number){
         System.out.println(
                 switch (number)
