@@ -1,5 +1,5 @@
 public class TeenNumberChecker {
-    // write code here
+
     public static boolean hasTeen(int param1, int param2, int param3){
 
         return isTeen(param1) || isTeen(param2) || isTeen(param3);

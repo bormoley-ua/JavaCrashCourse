@@ -1,5 +1,5 @@
 public class IntEqualityPrinter {
-    // write code here
+
     public static void printEqual(int val1, int val2, int val3){
         if (val1<0 || val2<0 || val3<0)
         {

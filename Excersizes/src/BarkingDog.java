@@ -1,5 +1,5 @@
 public class BarkingDog {
-    // write code here
+
     public static boolean shouldWakeUp(boolean barking, int hourOfDay){
         boolean result = false;
 

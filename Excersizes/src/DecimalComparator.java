@@ -1,5 +1,5 @@
 public class DecimalComparator {
-    // write code here
+
     public static boolean areEqualByThreeDecimalPlaces1(double eter1, double eter2){
         return (long)eter1*1000 == (long)eter2*1000;
     }
