@@ -11,6 +11,7 @@
       <module fileurl="file://$PROJECT_DIR$/MethodOverloading/MethodOverloading.iml" filepath="$PROJECT_DIR$/MethodOverloading/MethodOverloading.iml" />
       <module fileurl="file://$PROJECT_DIR$/StatementsWhiteSpaceAndIdenting/StatementsWhiteSpaceAndIdenting.iml" filepath="$PROJECT_DIR$/StatementsWhiteSpaceAndIdenting/StatementsWhiteSpaceAndIdenting.iml" />
       <module fileurl="file://$PROJECT_DIR$/Switch/Switch.iml" filepath="$PROJECT_DIR$/Switch/Switch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TMP/TMP.iml" filepath="$PROJECT_DIR$/TMP/TMP.iml" />
     </modules>
   </component>
 </project>
